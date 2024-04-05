@@ -9,4 +9,4 @@ Hi my Name is Patrik!
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuoriPadawan)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NuoriPadawan&show_icons=true&theme=radical)
